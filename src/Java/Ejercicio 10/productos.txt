@@ -1,0 +1,2 @@
+2345|Avena|cereales|3.00|5
+6789|Yogurt|Lacteos|6.00|9
