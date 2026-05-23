@@ -1,0 +1,5 @@
+1650011404|Skarlett|Contabilidad|0
+1751094523|ALAN|SOFTWARE|10
+1677777778|Fernando|TICS|9
+1234231232|Patricia|Medicina|7
+1650143934|Julieta|Marketing|0
