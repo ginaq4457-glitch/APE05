@@ -1,0 +1,9 @@
+Hanna Aide Acosta Solis | 18 | Software | 8
+Paula Ariana Flores Perez | 19 | Arquitectura | 6
+Nombre: Hanna | Edad: 18 | Carrera: Software | Promedio: 8
+Nombre: Paulo Acosta | Edad: 19 | Carrera: Auditoria | Promedio: 9
+cd | "c:\Users\hanna\Desktop\C++\" | ; | 0
+1805463492 | Hanna | Software | 9
+1209873456 | Paula | Derecho | 10
+12095643823 | Edison | Medicina | 7
+0987567432 | Andres | Fisioterapia | 7

@@ -1,0 +1,5 @@
+cd "c:\Users\hanna\Desktop\JAVA\EJERCICIO1_ ESTUDIANTES\" ; if ($?) { javac Mainm.java } ; if ($?) { java Mainm } | cd "c:\Users\hanna\Desktop\JAVA\EJERCICIO1_ ESTUDIANTES\" ; if ($?) { javac Mainm.java } ; if ($?) { java Mainm } | Software | 9.0
+1805463492 | Hanna | Software | 9.0
+0984573218 | Edison | Medicina | 6.0
+1864736289 | Gina | Enfermeria | 10.0
+1803285438 | Andres | Derecho | 8.0
